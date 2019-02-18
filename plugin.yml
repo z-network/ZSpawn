@@ -1,0 +1,14 @@
+name: ZSpawn
+version: 1
+main: gq.devmc.zspawn
+description: Setspawn, Spawn and TP
+
+commands:
+    tp:
+        usage: /<command>
+        aliases: [ztp]
+    setspawn:
+        usage: /<command>
+        aliases: [zspawn]
+    spawn:
+        usage: /<command>
