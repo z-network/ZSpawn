@@ -1,6 +1,6 @@
 name: ZSpawn
 version: 1
-main: gq.devmc.zspawn
+main: gq.devmc.zspawn.Main2
 description: Setspawn, Spawn and TP
 
 commands:
